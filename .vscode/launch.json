@@ -17,7 +17,7 @@
             "externalConsole": false,
             "internalConsoleOptions": "neverOpen",
             "MIMode": "gdb",
-            "miDebuggerPath": "E:/mingw64/bin/gdb.exe",
+            "miDebuggerPath": "D:/Program Files/LLVM/bin/gdb.exe",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",

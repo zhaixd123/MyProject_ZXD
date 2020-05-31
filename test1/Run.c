@@ -13,6 +13,6 @@
 int main(void){
    char a[]={'a','0','c'};
    printf("输出的值为：%d",a);
-
+    
     return 0;
 }
